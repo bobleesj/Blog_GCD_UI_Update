@@ -1,4 +1,4 @@
-#Learn how to network in the background#
+#Learn How to Network in the Background#
 ![alt text](https://cdn-images-1.medium.com/max/2000/1*FHZA1n-062FVI0tO20DMhA.png "Cover Image")
 
 ##What you will be learning##
